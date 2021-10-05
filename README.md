@@ -10,16 +10,17 @@
 
 ### Languages and Tools
 
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.png" />
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.png" />
-<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-![Erlang](https://symbols.getvecta.com/stencil_79/67_erlang-icon.68d095a987.svg "Erlang")
+<img align="left" alt="C" title="C" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c.png" />
+<img align="left" alt="C++" title="C++" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.png" />
+<img align="left" alt="C#" title="C#" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png" />
+<img align="left" alt="Python" title="Python" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.png" />
+<img align="left" alt="Java" title="Java" width="30px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" title="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Erlang" title="Erlang" width="30px" src="https://symbols.getvecta.com/stencil_79/67_erlang-icon.68d095a987.svg" />
+
 
 
 
