@@ -1,10 +1,6 @@
 ### Hi there, I'm Marcin :wave:
 
-- :man_student: I’m studying Computer Science at AGH University of Science and Technology
-
-<!--[<img align="left" width="28px" alt="AGH University of Science and Technology" src="https://www.agh.edu.pl/fileadmin/default/templates/images/uczelnia/siw/znak/znak_wielobarwny/agh_znk_wbr_rgb_150ppi.jpg" />][AGH]-->
-
-<br />
+- :man_student: I’m studying Computer Science at [AGH University of Science and Technology][AGH]
 
 ### Connect with me:
 
